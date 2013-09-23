@@ -282,14 +282,14 @@
   color: #ffffff;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
   background-color: #24678d;
-  background-image: -moz-linear-gradient(top, #51a351, #24678d);
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#51a351), to(#24678d));
-  background-image: -webkit-linear-gradient(top, #51a351, #24678d);
-  background-image: -o-linear-gradient(top, #51a351, #24678d);
-  background-image: linear-gradient(to bottom, #51a351, #24678d);
+  background-image: -moz-linear-gradient(top, #24678d, #24678d);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#24678d), to(#24678d));
+  background-image: -webkit-linear-gradient(top, #24678d, #24678d);
+  background-image: -o-linear-gradient(top, #24678d, #24678d);
+  background-image: linear-gradient(to bottom, #24678d, #24678d);
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff51a351', endColorstr='#ff24678d', GradientType=0);
-  border-color: #24678d #24678d #3b9e3b;
+  border-color: #24678d #24678d #24678d;
   border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
   *background-color: #24678d;
   /* Darken IE7 buttons by default so they stand out more given they won't have borders */
